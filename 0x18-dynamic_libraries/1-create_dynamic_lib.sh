@@ -99,7 +99,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-7e6bf8fa8faa.js"></script>
 
 
-  <title>alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at master · Ajoe62/alx-low_level_programming · GitHub</title>
+  <title>alx-low_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at main · dedoyin21/alx-low_programming · GitHub</title>
 
 
 
@@ -111,10 +111,10 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="842E:100ADE:221E7:31C28:6601B803" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9f6f2e6978ff90e921aeec9c74565b2a58b13e20c5c3ce6e7982219168e654f9" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4NDJFOjEwMEFERToyMjFFNzozMUMyODo2NjAxQjgwMyIsInZpc2l0b3JfaWQiOiI0NTk4NTA2MDk2OTQ3MjE0MzM5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="f555d1311e58620317737635aec3727b881f60a16543da41eaebac8b45f858e1" data-pjax-transient="true"/>
+  <meta name="request-id" content="84B8:84FC:1110E4:190ECF:6601BC4B" data-pjax-transient="true"/><meta name="html-safe-nonce" content="078ba9f18454b929cb564107f109189bff414607548dbc535f24b3dd80770887" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4NEI4Ojg0RkM6MTExMEU0OjE5MEVDRjo2NjAxQkM0QiIsInZpc2l0b3JfaWQiOiIzODkzNjE0OTk0ODgwODM4NzMxIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="2492c51764b8bf084b21a67ed373057570b3e48fa4875d50b53f43b590eada55" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:666155237" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:730595055" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
@@ -145,13 +145,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="This repository contains directory and files for C programming - alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at master · Ajoe62/alx-low_level_programming">
+      <meta name="description" content="0x18. C - Dynamic libraries. Contribute to dedoyin21/alx-low_programming development by creating an account on GitHub.">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/0d48d496901b25486d18ba29423e232d0a1929bba1bf3337cf52dcbf95d39114/Ajoe62/alx-low_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at master · Ajoe62/alx-low_level_programming" /><meta name="twitter:description" content="This repository contains directory and files for C programming - Ajoe62/alx-low_level_programming" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/0d48d496901b25486d18ba29423e232d0a1929bba1bf3337cf52dcbf95d39114/Ajoe62/alx-low_level_programming" /><meta property="og:image:alt" content="This repository contains directory and files for C programming - Ajoe62/alx-low_level_programming" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at master · Ajoe62/alx-low_level_programming" /><meta property="og:url" content="https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh" /><meta property="og:description" content="This repository contains directory and files for C programming - Ajoe62/alx-low_level_programming" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/bee91b86dad88d2a30121b09e2cb9b7077dc0ef9106938a9c2bb7c352183f7aa/dedoyin21/alx-low_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="alx-low_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at main · dedoyin21/alx-low_programming" /><meta name="twitter:description" content="0x18. C - Dynamic libraries. Contribute to dedoyin21/alx-low_programming development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/bee91b86dad88d2a30121b09e2cb9b7077dc0ef9106938a9c2bb7c352183f7aa/dedoyin21/alx-low_programming" /><meta property="og:image:alt" content="0x18. C - Dynamic libraries. Contribute to dedoyin21/alx-low_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="alx-low_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at main · dedoyin21/alx-low_programming" /><meta property="og:url" content="https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh" /><meta property="og:description" content="0x18. C - Dynamic libraries. Contribute to dedoyin21/alx-low_programming development by creating an account on GitHub." />
       
 
 
@@ -174,9 +174,9 @@
     <meta data-hydrostats="publish">
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.959fb0b61e6a1de773e7.module.css" />
 
-  <meta name="go-import" content="github.com/Ajoe62/alx-low_level_programming git https://github.com/Ajoe62/alx-low_level_programming.git">
+  <meta name="go-import" content="github.com/dedoyin21/alx-low_programming git https://github.com/dedoyin21/alx-low_programming.git">
 
-  <meta name="octolytics-dimension-user_id" content="136833259" /><meta name="octolytics-dimension-user_login" content="Ajoe62" /><meta name="octolytics-dimension-repository_id" content="666155237" /><meta name="octolytics-dimension-repository_nwo" content="Ajoe62/alx-low_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="666155237" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Ajoe62/alx-low_level_programming" />
+  <meta name="octolytics-dimension-user_id" content="133877095" /><meta name="octolytics-dimension-user_login" content="dedoyin21" /><meta name="octolytics-dimension-repository_id" content="730595055" /><meta name="octolytics-dimension-repository_nwo" content="dedoyin21/alx-low_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="730595055" /><meta name="octolytics-dimension-repository_network_root_nwo" content="dedoyin21/alx-low_programming" />
 
 
 
@@ -253,9 +253,9 @@
       </a>
 
       <div class="flex-1">
-        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FAjoe62%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh"
+        <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdedoyin21%2Falx-low_programming%2Fblob%2Fmain%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh"
           class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3100c15f603c4669c152a9c5fe40072205ca482727cf22099bd0fa5c7ab40b1c"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3631a4a8bf4528d0de717e8d7d675f6e604954f8ea7e736fd71f4fe0bc3ecdd3"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
@@ -628,7 +628,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:Ajoe62/alx-low_level_programming" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="rR1XAz96PJM9Uoqa7L6DUF-UYFdVCaQekFuS79u1hyRCOXfC_zkIoAq1nYPUs-_hn7C64_t8_XtPEbzWJDSTFQ" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Ajoe62/alx-low_level_programming" data-current-org="" data-current-owner="Ajoe62" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=VtEr8BUmFNzE0qiWNjbOAtgtRmawCey2hB9UbpQjpE1a3MQfJqfDdm8337n0myPAI%2FgrTP0ef0pS28MYk%2BPMjrgDN1v3rSDsku9uuo0TX%2BcQb4LHzwE24SIc%2FuqROc07E0Y%2F5VXRSw%2FrzJ6%2BM0cHzarkcH54kU%2B6FinnUkLGNXm574YSeRwSycRyz3gGXjAVKV5qsTvzrhCtQmh1Q4PD1uzAZ%2BTPmNXAr%2FmyarOUnIfW5i%2BjBUa24LcTC%2FikbnTe43kSFb3o%2B3nvAGKn62RWEKg%2FpS%2Bodxfc8p0u7rPovHX9ZxpCjSazEiDHz7YTL%2B7zYSlh20yi%2Fq4lYqb%2BqiFv9n05j%2FO%2B%2BAOzvAHa8zOv9zetWbbAkE9JRJgns2c1IEow2Nrz8%2F2Z0%2FaBciohOYkR4juEp7WJtGPFloMWm1qgGtyjfVsf44CuKD9BmN4weTro6v5YrHIQMDrj9hdVIg2cVbFDmjs0r0NwyjdBPtTjR%2B5CMqv08kxOrZl4D3gGRaVP%2FfaMJqE0YSmHrFskgsbviWY7u9GdmljCIjzKieMERc%2FXMdKYLZGEycPqGFPHq6yS9falY7pyMeC1IR8SG5lcarVNxVskq5dX%2F%2F6EiHZpdkqpl2yTPACJoAZkD%2F%2FRaJZrtvK8UNr8uQuwIGumirF0uPQs--0239s8nEetWVi57R--NlGahYZT3xJHDxhVsjdIoQ%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:dedoyin21/alx-low_programming" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="irXOKlpH1PGsJLDrnT-4ryPLTB4kCZ6umRBAtah3YnxgDqplhbMpGrLrEf3FnLVtHBHdHK8mepWXsExPGj7y4Q" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="dedoyin21/alx-low_programming" data-current-org="" data-current-owner="dedoyin21" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=ZVAuegQDE2JKk3bmNUAYRblAtrPXzAKs8BMBhur9Fp8i9o0e0hx7XLEux1lMp8gEqD8siv806jQ51VDdqgRMxGDVKZBIHHb27AY7iNHGTcQWn06teQf%2FZlvr8PcaAr6yFrjMoMPTPtTR11ZKhOdEeGFQVGs8oYaQ%2FVcg7sV3Gq11eBhwZvryo7WGgSb629vGh1VlLDWdy%2BhRxfsHvT9GfJ3C6NGXh0r1LLrUb7Q3Z2cikIYmvsBs%2FlcOq%2FnTvr%2FrI7UkkhqIA64diLXxyi0hYKqDjMpSwcNB40MWgB%2FXZUBIw1ONp7D23uWDFn9p6syi%2Bm3LJ2hEMcVAhm18uGVOObwAdKX2I4iIHoyY6x5Tp0mObujv9kiHDsupclt4BfJ5BI0igd555Ca6UV0577JDNWy4fKAk2xZTp%2BCGZQKQQ7guR14XXWFKVoW1fbYEamOv8xDoGHMRgug2uoXydK%2FsCdb4euzySwMEoLPZs2Yl%2B30CyAGwHdXmDYdj12QviOaBtGNtluC%2FD1Irvm5rHHtW%2BjojNXXbJH%2BDp871%2Bpg01hZ1qGe5d05JC7ClkqVWU6lioHY6mWtgDLFf0ge%2B%2BdADd3Z0noF6uw3PnOmTszvHVl749nN3sHJU6EFHbDgOaZoFJGiQPPgulU%2BlKg%3D%3D--Cm3v0unxr%2BK8ZSfq--nW94YTG3FRMJ5dPzPa3THA%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -690,7 +690,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-00bb1bbb-aa24-4345-be61-068dd3c3057e" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-bfdc7846-502f-4bfb-88cc-e5e392e1c7b3" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -921,7 +921,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-00bb1bbb-aa24-4345-be61-068dd3c3057e" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-bfdc7846-502f-4bfb-88cc-e5e392e1c7b3" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -962,7 +962,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="mLacinklEMrH8HiXNyo1gqVtH9/f2LCisiP5qdmN8T3LfbP8WhDEXq0+hf2VOE4he/SJnXYnfYPyf3yJgSjPzQ==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="PigP8sD8n5IXlZqPZKTtL1/0DozVGngrD1zWg2VX+7cgcgdrqKfDphFpjFD2QTFdpZzwMpv2Eyl6Az2sDUR7fQ==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -999,7 +999,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="P353Mu8P0jgPLigVMqvX1T0GTaxqGCb7dk2SnHsxhBpxp53xFQxkQsX7VDtqh+jXhBUsU7pfqU9a6YChwTnUbA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="oJ+ySpQiyYI+x+i7NuLuRMzXTvNZFi1s21sLzogqVJNyYzgRwsFnsXiBz0nITQOn+34FWgMOlCItv14AU7pfbg==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1017,7 +1017,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="X/j9fBeVVdj3pJbZyfFnzFvXvhglE0tZXDcQ9ddI/YIsU+weG/xrHoRIcqnbIWasvZJ22lcNz3HgnCxf+dtnow==" />
+              <input type="hidden" data-csrf="true" value="DsDN4S6EflCdluVRmT1N0itLFvteyQXyzsIYvsMya2CXqrrHQbA5GSCrO/j1b8K92m2gc3CSQs6MWwnw6mtBlQ==" />
             </auto-check>
           </div>
 
@@ -1054,21 +1054,21 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4tNwicyCTTjzhC7PHVM5KO1pmzzpfyVdydC8Kjjb55BAKOrTehLeCxcQS54pygBg5M0hjyCapFgcNOTSVyhOfw==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="7YEvH8GsTXUuO2zzAWwtvG8veMdIe5CKSHL42V6qWpxQHndpBeBoV3inL2dYECrItzOgaDswUNqebunYUHul+Q==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FAjoe62%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fdedoyin21%2Falx-low_programming%2Fblob%2Fmain%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3100c15f603c4669c152a9c5fe40072205ca482727cf22099bd0fa5c7ab40b1c"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3631a4a8bf4528d0de717e8d7d675f6e604954f8ea7e736fd71f4fe0bc3ecdd3"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
           </div>
 
-            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Ajoe62%2Falx-low_level_programming"
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=dedoyin21%2Falx-low_programming"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3100c15f603c4669c152a9c5fe40072205ca482727cf22099bd0fa5c7ab40b1c"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3631a4a8bf4528d0de717e8d7d675f6e604954f8ea7e736fd71f4fe0bc3ecdd3"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -1088,10 +1088,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-805a58d7-b77c-4515-acfc-29a514541675" aria-labelledby="tooltip-8ee45cc3-17c1-459f-98fb-27874576e983" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-7064c082-ef98-4b04-be90-53392a34f00b" aria-labelledby="tooltip-22b84786-47c3-44ae-9c66-099d14195734" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-8ee45cc3-17c1-459f-98fb-27874576e983" for="icon-button-805a58d7-b77c-4515-acfc-29a514541675" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-22b84786-47c3-44ae-9c66-099d14195734" for="icon-button-7064c082-ef98-4b04-be90-53392a34f00b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1169,12 +1169,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Ajoe62/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Ajoe62">
-        Ajoe62
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/dedoyin21/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dedoyin21">
+        dedoyin21
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Ajoe62/alx-low_level_programming">alx-low_level_programming</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/dedoyin21/alx-low_programming">alx-low_programming</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1189,23 +1189,23 @@
       
 
   <li>
-            <a href="/login?return_to=%2FAjoe62%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c11eea1a6959b96b9de25600f5faeaee958a7161d879aeb3c403ddbcb7f77a72" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+            <a href="/login?return_to=%2Fdedoyin21%2Falx-low_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d4b639a21a50d6ea4ee588110a695bfd6732b1140b940bc06d24acdceb9e582a" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FAjoe62%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:666155237,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5ed0c658aa4da7117b8cbe42e45c142f84fc9a1c824b2c223ee9b453c99c557" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fdedoyin21%2Falx-low_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:730595055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="325b49e6f8fafadde86cf51e52318c94d4dc0e9222523d8794b18e661b112e1e" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1" data-view-component="true" class="Counter">1</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FAjoe62%2Falx-low_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:666155237,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5ed364876273b8065a5cc90928f41a89f2c570c9e7264993bc05f02bd4b43312" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fdedoyin21%2Falx-low_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:730595055,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="889f7acb219f1a14a6f0a393a4118a735d1b546c9d8e3cd90304108ab60e73ae" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1233,7 +1233,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Ajoe62/alx-low_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /Ajoe62/alx-low_level_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/dedoyin21/alx-low_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /dedoyin21/alx-low_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1245,7 +1245,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Ajoe62/alx-low_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Ajoe62/alx-low_level_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/dedoyin21/alx-low_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /dedoyin21/alx-low_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1257,7 +1257,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Ajoe62/alx-low_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Ajoe62/alx-low_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/dedoyin21/alx-low_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /dedoyin21/alx-low_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1269,7 +1269,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Ajoe62/alx-low_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Ajoe62/alx-low_level_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/dedoyin21/alx-low_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /dedoyin21/alx-low_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1281,7 +1281,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Ajoe62/alx-low_level_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Ajoe62/alx-low_level_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/dedoyin21/alx-low_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /dedoyin21/alx-low_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1293,18 +1293,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Ajoe62/alx-low_level_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Ajoe62/alx-low_level_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/dedoyin21/alx-low_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /dedoyin21/alx-low_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/Ajoe62/alx-low_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/dedoyin21/alx-low_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Ajoe62/alx-low_level_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Ajoe62/alx-low_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/dedoyin21/alx-low_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /dedoyin21/alx-low_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1318,21 +1318,21 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-button" popovertarget="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-overlay" aria-controls="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-list" aria-haspopup="true" aria-labelledby="tooltip-24f6fe13-fce7-4f7f-a39f-987450acefb1" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-button" popovertarget="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-overlay" aria-controls="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-list" aria-haspopup="true" aria-labelledby="tooltip-39f543df-057e-49af-baa1-126b5daccf46" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-24f6fe13-fce7-4f7f-a39f-987450acefb1" for="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-39f543df-057e-49af-baa1-126b5daccf46" for="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-overlay" anchor="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-overlay" anchor="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-button" id="action-menu-f041f33b-12dd-4096-94ac-a6ebe36d3cb1-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-button" id="action-menu-c4177569-08e0-4afb-91a6-741b41832dfa-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-c62d3bc3-a2fb-4c4d-8935-5be873739f2b" href="/Ajoe62/alx-low_level_programming" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-45eff2b7-c2c0-4307-8d00-b9ceaca67bcf" href="/dedoyin21/alx-low_programming" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1347,7 +1347,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-0697af94-3637-4f55-813f-5e1e5f4383c1" href="/Ajoe62/alx-low_level_programming/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-5b3acd8c-9671-4673-90ed-c2c504ccd7fe" href="/dedoyin21/alx-low_programming/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1362,7 +1362,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-06e8a798-1d2d-4518-992b-c0452c5a6b41" href="/Ajoe62/alx-low_level_programming/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9724e971-c3ca-4a44-8ec7-b622bd9cc101" href="/dedoyin21/alx-low_programming/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1377,7 +1377,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-bdb71dde-1e0e-42a2-a2e9-fcb262953d9b" href="/Ajoe62/alx-low_level_programming/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-a34337a0-e008-47f8-87df-a365f87b22c9" href="/dedoyin21/alx-low_programming/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1392,7 +1392,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-3c0afd0e-076a-423b-80f0-e811893df341" href="/Ajoe62/alx-low_level_programming/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-6f1d0cda-f13a-43e1-aaf0-5f2699d454ac" href="/dedoyin21/alx-low_programming/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1407,7 +1407,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-d89de984-b858-42b0-92e2-e0155925ddc6" href="/Ajoe62/alx-low_level_programming/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-537bdbcf-ee1a-44ce-b753-33a7de9661ac" href="/dedoyin21/alx-low_programming/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1422,7 +1422,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-174e873d-029b-4916-bc2e-5dcc38dd7700" href="/Ajoe62/alx-low_level_programming/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-00ac4256-613d-40ab-b66b-e94fa9054c03" href="/dedoyin21/alx-low_programming/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1467,14 +1467,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+  initial-path="/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
   style="min-height: calc(100vh - 64px)" 
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"0x18-dynamic_libraries":{"items":[{"name":"functions","path":"0x18-dynamic_libraries/functions","contentType":"directory"},{"name":"1-create_dynamic_lib.sh","path":"0x18-dynamic_libraries/1-create_dynamic_lib.sh","contentType":"file"},{"name":"100-operations.so","path":"0x18-dynamic_libraries/100-operations.so","contentType":"file"},{"name":"100-tests.py","path":"0x18-dynamic_libraries/100-tests.py","contentType":"file"},{"name":"101-make_me_win.sh","path":"0x18-dynamic_libraries/101-make_me_win.sh","contentType":"file"},{"name":"README.md","path":"0x18-dynamic_libraries/README.md","contentType":"file"},{"name":"libdynamic.so","path":"0x18-dynamic_libraries/libdynamic.so","contentType":"file"},{"name":"main.h","path":"0x18-dynamic_libraries/main.h","contentType":"file"},{"name":"putshack.so","path":"0x18-dynamic_libraries/putshack.so","contentType":"file"}],"totalCount":9},"":{"items":[{"name":"0x01-variables_if_else_while","path":"0x01-variables_if_else_while","contentType":"directory"},{"name":"0x02-functions_nested_loops","path":"0x02-functions_nested_loops","contentType":"directory"},{"name":"0x03-debugging","path":"0x03-debugging","contentType":"directory"},{"name":"0x04-more_functions_nested_loops","path":"0x04-more_functions_nested_loops","contentType":"directory"},{"name":"0x05-pointers_arrays_strings","path":"0x05-pointers_arrays_strings","contentType":"directory"},{"name":"0x06-pointers_arrays_strings","path":"0x06-pointers_arrays_strings","contentType":"directory"},{"name":"0x07-pointers_arrays_strings","path":"0x07-pointers_arrays_strings","contentType":"directory"},{"name":"0x08-recursion","path":"0x08-recursion","contentType":"directory"},{"name":"0x09-static_libraries","path":"0x09-static_libraries","contentType":"directory"},{"name":"0x0A-argc_argv","path":"0x0A-argc_argv","contentType":"directory"},{"name":"0x0B-malloc_free","path":"0x0B-malloc_free","contentType":"directory"},{"name":"0x0C-more_malloc_free","path":"0x0C-more_malloc_free","contentType":"directory"},{"name":"0x0D-preprocessor","path":"0x0D-preprocessor","contentType":"directory"},{"name":"0x0E-structures_typedef","path":"0x0E-structures_typedef","contentType":"directory"},{"name":"0x0F-function_pointers","path":"0x0F-function_pointers","contentType":"directory"},{"name":"0x10-variadic_functions","path":"0x10-variadic_functions","contentType":"directory"},{"name":"0x12-singly_linked_lists","path":"0x12-singly_linked_lists","contentType":"directory"},{"name":"0x13-more_singly_linked_lists","path":"0x13-more_singly_linked_lists","contentType":"directory"},{"name":"0x14-bit_manipulation","path":"0x14-bit_manipulation","contentType":"directory"},{"name":"0x15-file_io","path":"0x15-file_io","contentType":"directory"},{"name":"0x17-doubly_linked_lists","path":"0x17-doubly_linked_lists","contentType":"directory"},{"name":"0x18-dynamic_libraries","path":"0x18-dynamic_libraries","contentType":"directory"},{"name":"0x1A-hash_tables","path":"0x1A-hash_tables","contentType":"directory"},{"name":"0x1C-makefiles","path":"0x1C-makefiles","contentType":"directory"},{"name":"0x1E-search_algorithms","path":"0x1E-search_algorithms","contentType":"directory"}],"totalCount":25}},"fileTreeProcessingTime":4.830349,"foldersToFetch":[],"repo":{"id":666155237,"defaultBranch":"master","name":"alx-low_level_programming","ownerLogin":"Ajoe62","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-07-13T21:01:05.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/136833259?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1689387192.0","canEdit":false,"refType":"branch","currentOid":"f92aeb6ba832312f9280f5bae33076e0bb1b19f2"},"path":"0x18-dynamic_libraries/1-create_dynamic_lib.sh","currentUser":null,"blob":{"rawLines":["#!/bin/bash","gcc -Wall -Wextra -Werror -pedantic -c -fPIC *.c","gcc -shared -o liball.so *.o","export LD_LIBRARY_PATH=.:$LD_LIBRARY_PATH"],"stylingDirectives":[[{"start":0,"end":11,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":45,"end":46,"cssClass":"pl-k"}],[{"start":25,"end":26,"cssClass":"pl-k"}],[{"start":0,"end":6,"cssClass":"pl-k"},{"start":25,"end":41,"cssClass":"pl-smi"}]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/Ajoe62/alx-low_level_programming/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"1-create_dynamic_lib.sh","displayUrl":"https://github.com/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh?raw=true","headerInfo":{"blobSize":"132 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"dfafea2","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FAjoe62%2Falx-low_level_programming%2Fblob%2Fmaster%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"4","truncatedSloc":"4"},"mode":"executable file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Shell","languageID":346,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/Ajoe62/alx-low_level_programming/blob/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/Ajoe62/alx-low_level_programming/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/Ajoe62/alx-low_level_programming/raw/master/0x18-dynamic_libraries/1-create_dynamic_lib.sh","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/Ajoe62/alx-low_level_programming/branches":{"post":"XaibO-Pdoa48PR1IqS6kQBKko_tHVdghvf8_TXc9BcXd562UsSGgoJfbhp8ZcF54W3N-hYgYhMZTJlamrHTaXw"},"/repos/preferences":{"post":"xLd9xlHLxNbmlCnsmVDH3CU4N0w28zq7sgQnXSrptKKblqBEF7G7b2e5qK0wOM8K37Be9m9riUsR5qPCjww2jg"}}},"title":"alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at master · Ajoe62/alx-low_level_programming","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false,"codeview_firefox_inert":true,"overview_async_data_channel":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"0x18-dynamic_libraries":{"items":[{"name":"0-main.c","path":"0x18-dynamic_libraries/0-main.c","contentType":"file"},{"name":"1-create_dynamic_lib.sh","path":"0x18-dynamic_libraries/1-create_dynamic_lib.sh","contentType":"file"},{"name":"100-operations.so","path":"0x18-dynamic_libraries/100-operations.so","contentType":"file"},{"name":"100-tests.py","path":"0x18-dynamic_libraries/100-tests.py","contentType":"file"},{"name":"101-make_me_win.sh","path":"0x18-dynamic_libraries/101-make_me_win.sh","contentType":"file"},{"name":"README.md","path":"0x18-dynamic_libraries/README.md","contentType":"file"},{"name":"libdynamic.so","path":"0x18-dynamic_libraries/libdynamic.so","contentType":"file"},{"name":"main.h","path":"0x18-dynamic_libraries/main.h","contentType":"file"}],"totalCount":8},"":{"items":[{"name":"0x18-dynamic_libraries","path":"0x18-dynamic_libraries","contentType":"directory"},{"name":".gitattributes","path":".gitattributes","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":3}},"fileTreeProcessingTime":3.24717,"foldersToFetch":[],"repo":{"id":730595055,"defaultBranch":"main","name":"alx-low_programming","ownerLogin":"dedoyin21","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-12-12T09:11:51.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/133877095?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1702372315.0","canEdit":false,"refType":"branch","currentOid":"83913e418edb8679d6faee57fd83942bebcf7641"},"path":"0x18-dynamic_libraries/1-create_dynamic_lib.sh","currentUser":null,"blob":{"rawLines":["#!/bin/bash","gcc -fPIC -c *.c","gcc -shared -o liball.so *.o"],"stylingDirectives":[[{"start":0,"end":11,"cssClass":"pl-c"},{"start":0,"end":2,"cssClass":"pl-c"}],[{"start":13,"end":14,"cssClass":"pl-k"}],[{"start":25,"end":26,"cssClass":"pl-k"}]],"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/dedoyin21/alx-low_programming/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"1-create_dynamic_lib.sh","displayUrl":"https://github.com/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh?raw=true","headerInfo":{"blobSize":"58 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"d2cbd94","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fdedoyin21%2Falx-low_programming%2Fblob%2Fmain%2F0x18-dynamic_libraries%2F1-create_dynamic_lib.sh","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"3","truncatedSloc":"3"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":"Shell","languageID":346,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/dedoyin21/alx-low_programming/blob/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/dedoyin21/alx-low_programming/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/dedoyin21/alx-low_programming/raw/main/0x18-dynamic_libraries/1-create_dynamic_lib.sh","renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[]}},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/dedoyin21/alx-low_programming/branches":{"post":"_J8N2U2UBC7MRFLuuI_cffp2fuee-2uE8HbnNjjuOtW8_jQYDUNhIlKJxwKL-K9okxoVykkJgtB-m9D5y_ivoQ"},"/repos/preferences":{"post":"mmqleM_mjocb7EgepcMq-ZES3z0PkpkYME3zg_LWRhAa2pAP6jnFmdecH0fmdfEV1dve9Yw33huKaLyNKz1z9w"}}},"title":"alx-low_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh at main · dedoyin21/alx-low_programming","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false,"codeview_firefox_inert":true,"overview_async_data_channel":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
